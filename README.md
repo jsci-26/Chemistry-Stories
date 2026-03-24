@@ -66,7 +66,7 @@
     
     <div class="book">
         <h2>Periodic Table</h2>
-        <p>Learn the Repeating Properties of Elements</p>
+        <p>Learn the Repeating Properties of Elements.</p>
         <a href="https://drive.google.com/file/d/1d617OzDpSiCSueibGq0kyDKmkFFNdo9N/view?usp=drivesdk">Download</a>
     </div>
 
