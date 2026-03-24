@@ -3,7 +3,7 @@ Learn Fundamentals of Chemistry by Art of Story Telling
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Storybook Library</title>
+    <title>Chemistry Story Library</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
@@ -46,7 +46,7 @@ Learn Fundamentals of Chemistry by Art of Story Telling
 <body>
 
 <header>
-    <h1>📚 My Storybook Library</h1>
+    <h1>📚 Chemistry Story Library</h1>
 </header>
 
 <div class="container">
